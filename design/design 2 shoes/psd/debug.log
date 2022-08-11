@@ -1,0 +1,31 @@
+[0222/091721.890:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0222/094150.308:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0222/101434.092:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101439.108:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101444.121:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101449.129:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101454.135:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101459.145:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101504.159:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101509.174:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101514.188:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101519.203:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101524.218:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101529.232:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101534.246:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101555.546:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101702.777:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101707.808:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101712.824:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101717.842:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101722.856:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101727.871:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101732.886:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101737.902:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101742.918:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101747.933:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101752.947:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0222/101757.962:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
